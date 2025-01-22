@@ -1,4 +1,4 @@
-# Codigos de trabajo de Investigacion de Enterobacter sp. cepa UNJFSC003
+# Enterobacter sp. cepa UNJFSC003
 Este trabajo de investigacion tuvo como objetivo ensamblar el genoma, anotar y analizar a nivel funcional sus genes y proteinas que tengan potencial en bioremediacion de hidrocarburos aromaticos policiclicos, etc.
 
 # Citacion
