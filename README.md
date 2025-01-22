@@ -2,7 +2,7 @@
 Este trabajo de investigacion tuvo como objetivo ensamblar el genoma, anotar, analizar a nivel funcional sus genes y predecir estructuras de proteinas que tengan un potencial en bioremediacion de hidrocarburos aromaticos policiclicos, etc.
 
 # Citacion
-Castillo, G., Contreras-Liz, S.E., Arbizu, C.I., Rodriguez-Grados, P.M. (2025). Genome Sequencing Reveals the Potential of Enterobacter sp. Strain UNJFSC003 for Hydrocarbon Bioromediation
+Castillo, G., Contreras-Liza, S.E., Arbizu, C.I., Rodriguez-Grados, P.M. (2025). Genome Sequencing Reveals the Potential of Enterobacter sp. Strain UNJFSC003 for Hydrocarbon Bioromediation
 
 # Autor
 Gianmarco Castillo
